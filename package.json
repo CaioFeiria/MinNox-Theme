@@ -1,13 +1,13 @@
 {
   "name": "minnox-theme",
   "displayName": "MinNox Theme",
-  "description": "MinNox Theme é um tema dark minimalista projetado para oferecer uma interface limpa e sofisticada. Com contrastes sutis e cores equilibradas, ele promove uma experiência de codificação imersiva e elegante, ideal para quem busca foco e produtividade.",
+  "description": "MinNox Theme é um tema dark minimalista projetado para oferecer uma interface limpa e sofisticada.",
   "publisher": "caioufe",
-  "version": "0.0.3",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.96.0"
   },
-  "icon": "minnox-iconv2.png",
+  "icon": "icon-minnox3.png",
   "categories": [
     "Themes"
   ],
